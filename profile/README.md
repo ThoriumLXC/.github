@@ -7,9 +7,5 @@
 </h1>
 
 <p align="center">
-  A placeholder spot for containing the badges
+  Opinionated containerized environments for your favorite MMO emulation. Perfect for experimentation, hobbies, or just fun.
 </p>
-
-<div align="center">
-  A placeholder spot for containing the badges
-</div>
